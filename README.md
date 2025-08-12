@@ -1,70 +1,79 @@
-# Getting Started with Create React App
+# 🎬 Cinema X
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Cinema X** es una plataforma web diseñada para mejorar la experiencia de los usuarios en la exploración, compra y reserva de boletos para películas y eventos.  
+El sistema integra funcionalidades modernas, con un diseño atractivo y tecnologías de vanguardia, ofreciendo una navegación clara y fluida.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📌 Características principales
 
-### `npm start`
+- **Exploración de contenido:** El usuario puede acceder fácilmente a información sobre películas y eventos de interés mediante recursos interactivos.
+- **Compra de boletos:** El sistema cuenta con una interfaz para simular el proceso de compra de entradas.
+- **Calendario de funciones:** Visualización de horarios y fechas para planificar visitas.
+- **Suscripción de usuarios:** Registro y administración de cuentas para acceder a funcionalidades exclusivas.
+- **Perfil de usuario:** Opciones para compra y reserva, personalizadas según el usuario.
+- **Sección de promociones:** Espacio para mostrar ofertas y beneficios.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠 Tecnologías utilizadas
 
-### `npm test`
+- **Frontend:** React.js, CSS, HTML
+- **Backend:** Node.js
+- **Diseño y prototipado:** Wireframes y mapa de sitio
+- **Control de estilos y animaciones:** CSS y sliders interactivos
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 📂 Estructura y diseño
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Mapa de sitio:** Guía visual para la organización de las páginas y funcionalidades.
+- **Wireframes:** Representaciones gráficas de las principales pantallas.
+- **Componentes reutilizables:** Sliders, banners y elementos visuales consistentes en toda la plataforma.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 👥 Colaboradores
 
-### `npm run eject`
+Este proyecto fue desarrollado como parte de un trabajo en equipo:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Carhuaricra Tello, Pierre** – Coordinador y desarrollador de:
+  - Funcionalidad de compra de boletos en la sección "Películas"
+  - Implementación de la sección de promociones
+  - Desarrollo de sliders y banners de inicio
+  - Ajustes generales de CSS
+- **Trujillo Meza, Jhuli Judith** – Integrante
+- **Ganoza Carrasco, Endy Walter** – Integrante
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📄 Licencia
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Este proyecto fue desarrollado en conjunto y su uso, modificación o distribución debe ser consensuado entre los miembros del equipo original.  
+Puedes consultar el archivo [LICENSE](LICENSE) para más detalles.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🚀 Instalación y uso
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Clonar el repositorio:
+   ```bash
+   git clone https://github.com/usuario/cinema-x.git
+   
+2. Instalar dependencias:
+   ```bash
+   npm install
+   
+3. Ejecutar en modo desarrollo:
+   ```bash
+   npm start
 
-### Code Splitting
+4. Abrir en el navegador:
+   ```bash
+   http://localhost:3000
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 📜 License
 
-### Analyzing the Bundle Size
+This project is for educational purposes and does not implement real payment or booking systems.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
